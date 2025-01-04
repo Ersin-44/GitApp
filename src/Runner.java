@@ -16,10 +16,11 @@ public class Runner {
         //Version 4
         System.out.println("degisiklik ikinci gün 04.01.2025");
 
-
         //Version 5
         System.out.println("degisiklik ikinci gün 04.01.2025");
 
+        // yeni kodlar ekledim
+        // version
 
 
 
